@@ -203,7 +203,7 @@ public class BitSequence {
      * @return  the array of words that underlies the bit sequence
      */
     public Word[] getWords() {
-        return (Word[]) words.toArray();
+        return words.toArray(new Word[0]);
     }
         
     /**
