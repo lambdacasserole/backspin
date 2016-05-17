@@ -7,3 +7,6 @@ Perhaps you're writing your own Huffman compression stuff and you need to deal w
 
 ## Contributing
 For most intents and purposes, Backspin is considered to fulfil its original use case. Bug fixes and suggestions are welcome, however, from any member of the community.
+
+## Acknowlegements
+This suite of classes was isolated from the [the Denobo codebase](https://github.com/lambdacasserole/denobo) because James Healey used it like a badass to squeeze simple images into under 1KB when he put together [his app Wisecrack](http://jameshealey.me/). Cheers boi.
