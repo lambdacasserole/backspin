@@ -38,7 +38,7 @@ public class BitOutputStream {
      * Gets the length of the stream.
      * @return  the length of the stream
      */
-    public int length() {
+    public int getLength() {
         return seq.getLength();
     }
     
