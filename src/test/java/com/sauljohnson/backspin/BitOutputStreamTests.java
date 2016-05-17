@@ -2,6 +2,12 @@ package com.sauljohnson.backspin;
 
 import junit.framework.TestCase;
 
+/**
+ * Unit tests for the {@link BitOutputStream} class.
+ *
+ * @version 1.0 17 May 2016
+ * @author  Saul Johnson
+ */
 public class BitOutputStreamTests extends TestCase {
 
     public void testWrite() {
